@@ -1,0 +1,230 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Dovvnefall of temporizing poets, unlicenst printers, upstart booksellers, trotting mercuries and bawling hawkers being a very pleasant dialogue between Light-foot the mercury and Suck-bottle the hawker, Red-nose the poet being moderator between them : the corruptions of all which by their conference is plainly described.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36488</idno>
+            <idno type="STC">Wing D2088</idno>
+            <idno type="STC">ESTC R23145</idno>
+            <idno type="EEBO-CITATION">12754235</idno>
+            <idno type="OCLC">ocm 12754235</idno>
+            <idno type="VID">93376</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36488)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93376)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 254:E165, no 5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Dovvnefall of temporizing poets, unlicenst printers, upstart booksellers, trotting mercuries and bawling hawkers being a very pleasant dialogue between Light-foot the mercury and Suck-bottle the hawker, Red-nose the poet being moderator between them : the corruptions of all which by their conference is plainly described.</title>
+               </titleStmt>
+               <extent>[2], 5 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Woodcut illus. on t.p.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>London (England) --  Social life and customs.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:93376:1" rendition="simple:additions"/>
+            <pb facs="tcp:93376:1"/>
+            <p>The Dovvnefall of Temporizing Poets, unlicenſt Prin<g ref="char:EOLhyphen"/>ters, upſtart Bookſellers, trotting Mer<g ref="char:EOLhyphen"/>curies, and bawling Hawkers.</p>
+            <p>Being a very pleaſant Dialogue between <hi>Light-foot</hi> the Mercury, and <hi>Suck-bottle</hi> the Hawker, <hi>Red-noſe</hi> the Poet being Moderator between them; the corruptions of all which by their conference is plainly deſcribed.</p>
+            <figure/>
+            <p>Printed merrily, and may be read unhappily, be<g ref="char:EOLhyphen"/>twixt Hawke and Buſſard. 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:93376:2"/>
+            <pb n="1" facs="tcp:93376:2"/>
+            <head>The downefall of temporiſing Poets, Printers, Booke-ſellers, trotting Mercuries, and bawling Hawkers: expreſſed in a Dialogue, between <hi>Lightfoot</hi> the Mercury, and <hi>Suck-Bottle</hi> the Hawker: <hi>Red-noſe</hi> the Poet be<g ref="char:EOLhyphen"/>ing Moderator.</head>
+            <sp>
+               <speaker>Light-foot.</speaker>
+               <p>HOw now <hi>Suck-bottle,</hi> how goes the world with you? me-thinkes you are growne very wiſt of late, thy cheekes looke as thin as a Shrove-tueſd pan-cake; ſurely thou haſt oſt the priviledge of the Ale-tap, or will mother <hi>Nip</hi> at the bunch of Grapes ſcore no longer? Tell me the cauſe of thy deje<g ref="char:EOLhyphen"/>cted countenance.</p>
+            </sp>
+            <sp>
+               <speaker>Suck-bottle.</speaker>
+               <p>A pox on you <hi>Lightfoot,</hi> if it had not beene for you I might have beene now merry and frolicke, with my pipe and my pot; but now alas the caſe is altered: the Fidlers go a begging.</p>
+            </sp>
+            <sp>
+               <speaker>Lightf.</speaker>
+               <p>Sirrah <hi>Suck-bottle,</hi> doe not you lay the cauſe of your downfull upon me, for if it had not beene for your tearing throat, my basket with papers would have filld my
+<pb n="2" facs="tcp:93376:3"/> purſe with crownes; whereas now I could ſcarce get money e<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ugh to buy ſſhooes to tr<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t from the Exchange to Weſt<g ref="char:EOLhyphen"/>minſter, and from Weſtminſter to the Old Bayly, from the Old Bayly to Pauls Church-yard, and from thence to Weſtminſter againe: it is well known to the whole world, that what we got wee tooke paines for, like true Adamites we got our living by the ſweat of our browes.</p>
+            </sp>
+            <sp>
+               <speaker>Suck-B.</speaker>
+               <p>You were true Adamites indeed; for ſome of you had ſcarce cloathes enow to cover your nakedneſſe; it was better ſport than to ſee a Beare-bayting, to heare a male and female Mercury ſcolding together. I oncc going in Smithfield, one calld rogue, the other whore; one com<g ref="char:EOLhyphen"/>ming by wiſht the Divell to take them both: the woman with her tippet ſtanding up, her tongue being almoſt wea<g ref="char:EOLhyphen"/>ry with Billingſgate worke, going out of doores, chanced to ſlip, and in ſtead of a womans ſmock, ſhewed a mans ſhirt on her backe. And this is the gentility of your wor<g ref="char:EOLhyphen"/>ſhipfull <hi>Mercuries,</hi> both male and female: and then to make up the matter, you ſolely endeavored to pull down the admirable Corporation, or rather Bacchanalian Society of moſt reverend wandring Stationers.</p>
+            </sp>
+            <sp>
+               <speaker>Lightf.</speaker>
+               <p>You may well call your ſelves wandring Statio<g ref="char:EOLhyphen"/>ners, for there was ſcarce one of you that could ſay, at ſuch a houſe I will lodge to night: one of you came out of a hedge, mother out of New-gate, a third out of the New-priſon, and the fourth not beeing above a moneth out of Bedlam, roundly, profoundly, and ſoundly cries out with a voyce made of cannon proofe, <hi>Come buy a new Booke, a new Booke, newly come forth;</hi> theſe are the moſt admirable proprieties which belong to your moſt admired Corporation.</p>
+            </sp>
+            <sp>
+               <pb n="3" facs="tcp:93376:3"/>
+               <speaker>Suck-b.</speaker>
+               <p>
+                  <hi>Light foot,</hi> ceaſe thy rayling, <hi>Light foot</hi> look where <hi>How now Mars</hi> comes, the Regent Maſter of all Ballad-ſingers, he who thinkes his Muſe came from <hi>He<g ref="char:EOLhyphen"/>licon,</hi> when as it is well knowne the firſt originall of it was taken out of a Tan-pit, I ſay, let this worthy Patron of Strangullion Poetry moderate the cauſe, betwixt us two, for why, we are both at variance.</p>
+               <stage>Enter <hi>Poet.</hi>
+               </stage>
+            </sp>
+            <sp>
+               <speaker>Poet.</speaker>
+               <p>What is the matter moſt worthy Gentlemen? me thinkes yee ſhould rather deplore one anothers late misfortunes, than to deride at each others miſery, I pri<g ref="char:EOLhyphen"/>vately heard all your diſcourſe, which will be a laughter to the whole world.</p>
+               <p>You Maſter <hi>Light-foot</hi> call Maſter <hi>Suck-bottle</hi> Knave, and Maſter <hi>Suck bottle</hi> calls you Knave, and as for my part, I thinke yee are both Knaves, for why, neither of yee both deal honeſtly, I will ſhew you a reaſon for it, as for you Mercuries, inſtead of binding of Bibles you have chang'd your Trades to binde one another to that you never had, your good behaviours I mean, moreover there are amongſt you double dealers, for why? you have been meer Male and Female, one upon another, now for you Gentlemen Hawkers, or rather wandering Book-ſellers, whoſe mouthes are like open ſepulchres, for why? they are alwayes gaping, as for your hands, they are open alſo to take money, when yee can get it, yee are beholding to traiters, for had they not been bad, you had never took ſo much good money.
+<pb n="4" facs="tcp:93376:4"/> But who was the better for it? not your ſelves I am ſure: for why, you have ſpent it all at the Ale-houſe; and now, be it ſpoken to each one of your comforts, the next time you cry books about London, your reward ſhall be the whipping poſt; for why, there muſt be nothing ſold with<g ref="char:EOLhyphen"/>our Licenſe.</p>
+            </sp>
+            <sp>
+               <speaker>Light-f.</speaker>
+               <p>Maſter Poet, your tongue runnes before your wit, you tell us of our faults, but never looke upon your own. I ſaw the other day a Poet in print, ſhiting out of the Divels breech: you are very religious men, rather than you will loſe halfe a crowne, you will write againſt your owne Fathers. You will make mens wills before they be ſicke, and hang them before they are in priſon, and cut off heads before you know why or wherefore. You have an indiffer<g ref="char:EOLhyphen"/>ent ſtrong Corporation: 23 of you ſufficient writers, be<g ref="char:EOLhyphen"/>ſides <hi>Martin Parker.</hi> This alteration notwithſtanding hath made all your breeches make buttons: two or three of you if they had not truſted unto their legges, it is ten to one if they had not take acquaintance with the Gate-houſe, and then have lent the Pillory an eare or two. I thinke Maſter Poet I am even with you.</p>
+            </sp>
+            <sp>
+               <speaker>Poet.</speaker>
+               <p>Sawcy <hi>Mercury,</hi> the arranteſt knave of forty, if it had not been for us Poets, your wives petticoats had not been ſo laced, nor you blacke cloaked: wee ſhall have you ſhortly cry a poxe on the Printer, and then go hang your ſelves, and ſave yong <hi>Gregory</hi> a labour. There is a zealous Brother neere Warwicke lane, will helpe you to make up the number finely.</p>
+            </sp>
+            <sp>
+               <speaker>Suck-b.</speaker>
+               <p>Maſter Poet, let me deſire you to ceaſe, I have heard you thus long with patience, let us all three bee
+<pb n="5" facs="tcp:93376:4"/> friends, and be brothers in adverſity I am the oldeſt Haw<g ref="char:EOLhyphen"/>ker amongſt two hundred threeſcore and ſeventeen honeſt men and true, come, how ſay you, are we friends?</p>
+            </sp>
+            <sp>
+               <speaker>Poet.</speaker>
+               <p>Well ſpoken <hi>Sim Suck-bottle,</hi> I were not wor<g ref="char:EOLhyphen"/>thy the name of a Poet if I would not condeſcend to be friends, ſo the band of amity were made in an Ale-houſe or a Taverne.</p>
+            </sp>
+            <sp>
+               <speaker>Light. f.</speaker>
+               <p>Have you any money Poet?</p>
+            </sp>
+            <sp>
+               <speaker>Poet.</speaker>
+               <p>Money? I wonder when you ever ſee Poets have money two dayes together, I ſold a copy laſt night, and have ſpent the money, and now have another copy to ſell, but a pox on't, no body will buy it becauſe it is not licenceable, come, I know thou haſt money <hi>Light foot.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Light-f.</speaker>
+               <p>By this light not I.</p>
+            </sp>
+            <sp>
+               <speaker>Poet.</speaker>
+               <p>Nor you <hi>Suck-bottle?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Suck-B.</speaker>
+               <p>Why I? I was drunke laſt night, and never a new booke being out to day, I am quite broke.</p>
+            </sp>
+            <sp>
+               <speaker>Poet.</speaker>
+               <p>Why then here be three broken gentlemen of us.</p>
+            </sp>
+            <sp>
+               <speaker>Light. f.</speaker>
+               <p>Thy fall O Poet, makes poor <hi>Light foot</hi> mad.</p>
+            </sp>
+            <sp>
+               <speaker>Suck-b.</speaker>
+               <p>Thy fall O Poet, makes <hi>Suck bottle</hi> ſad.</p>
+            </sp>
+            <sp>
+               <speaker>Poet.</speaker>
+               <lg>
+                  <l>If Mercuries be mad, and Hawkers ſad,</l>
+                  <l>I'me ſure no reaſon I have to be glad.</l>
+                  <l>Farewell kinde Brothers, 'tis a curſed fate,</l>
+                  <l>One hour ſhould make five ſo unfortunate,</l>
+                  <l>Poet, Book-ſeller, Mercury, Hawker,</l>
+                  <l>And Printer, which but lately was a talker,</l>
+                  <l>How much he got, but fortune late hath frown'd,</l>
+                  <l>All five are falne, all five do kiſſe the ground.</l>
+               </lg>
+            </sp>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
